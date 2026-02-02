@@ -3,9 +3,10 @@ export const modulesData = [
         id: 1,
         title: "Onboarding",
         submodules: [
-            { title: "Apresentação QBank", desc: "Gustavo Boog", duration: "20 min", link: "https://medicinajvs.github.io/medcoftec/?modulo=1&submodulo=0" },
-            { title: "Onboarding Ettore", desc: "Aula introdutória", duration: "20 min", link: "https://medicinajvs.github.io/medcoftec/?modulo=1&submodulo=1" },
-            { title: "Onboarding Matheus Meireles", desc: "Aula introdutória", duration: "20 min", link: "https://medicinajvs.github.io/medcoftec/?modulo=1&submodulo=2" }
+            { title: "Onboarding - Nossa História e Método", desc: "Gustavo Boog", duration: "20 min", link: "https://medicinajvs.github.io/medcoftec/?modulo=1&submodulo=0" },
+            { title: "Onboarding - Apresentação da Plataforma Medcof Plus", desc: "Aula introdutória", duration: "20 min", link: "https://medicinajvs.github.io/medcoftec/?modulo=1&submodulo=1" },
+            { title: "Onboarding - Apresentação QBank", desc: "Aula introdutória", duration: "20 min", link: "https://medicinajvs.github.io/medcoftec/?modulo=1&submodulo=2" },
+            { title: "Onboarding - Apresentação TEC", desc: "Aula introdutória", duration: "20 min", link: "https://medicinajvs.github.io/medcoftec/?modulo=1&submodulo=3" }
         ]
     },
     {
